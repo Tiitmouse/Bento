@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'bitbucket',
+			icon: 'code',
+			link: 'https://bitbucket.org/',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'bitbucket',
-			icon: 'code',
-			link: 'https://bitbucket.org/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '5',
@@ -87,10 +87,11 @@ const CONFIG = {
 			icon: 'mail-question',
 			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
+		// TODO add pac man 
 		{
 			id: '7',
 			name: 'sflix',
-			icon: 'ghost',
+			icon: 'pac-man',
 			link: 'https://sflix.to/',
 		},
 		{
