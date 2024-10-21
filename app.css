@@ -16,7 +16,7 @@
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 8vh; /* Date */
   --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --icon: 4vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
@@ -28,17 +28,13 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/background.jpg); /* Image URL */
-  --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)
-  ); /* Filter color */
+  --imgbg: url(assets/gifs/gengar_gif.gif); /* Image URL */
 }
 
 .darktheme {
   /* Dark Colors  */
   --accent: #a869f5; /* Hover color */
-  --background: #19171a; /* Background color */
+  --background: #161517; /* Background color */
   --cards: #201e21; /* Cards color */
 
   /* Fonts Color */
@@ -47,8 +43,8 @@
 
   /* Image background  */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.85),
-    rgba(0, 0, 0, 0.85)
+    rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 0.1)
   ); /* Filter color */
 }
 
@@ -111,13 +107,15 @@ body {
 
 .card {
   background-color: var(--cards);
-  box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 5px 7px rgba(0, 0, 0, 0.5);
   border-radius: 20px;
+  opacity: 0.7;
 }
 
 .card:hover {
   transform: translateY(-0.9rem);
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
+  opacity: 0.9;
 }
 
 .timeBlock {

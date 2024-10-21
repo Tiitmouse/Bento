@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Lorena',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '19d735af9adcfd24068aa3accfebab11', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Onedark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'es', // More languages in https://openweathermap.org/current#multi
 
@@ -71,21 +71,39 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'x',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'bitbucket',
+			icon: 'code',
+			link: 'https://bitbucket.org/',
 		},
 		{
 			id: '5',
 			name: 'Mail',
-			icon: 'mail',
+			icon: 'mail-warning',
 			link: 'https://outlook.office.com/mail/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'x',
-			link: 'https://odysee.com/',
+			name: 'Mail',
+			icon: 'mail-question',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
+		},
+		{
+			id: '7',
+			name: 'sflix',
+			icon: 'ghost',
+			link: 'https://sflix.to/',
+		},
+		{
+			id: '8',
+			name: 'animesuge',
+			icon: 'ghost',
+			link: 'https://animesuge.to/home',
+		},
+		{
+			id: '9',
+			name: 'pinterest',
+			icon: 'ghost',
+			link: 'https://www.pinterest.com/',
 		},
 	],
 
