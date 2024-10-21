@@ -3,5 +3,8 @@
   "version": "1.2.5",
   "description": "🍱 Minimalist, elegant and hackable startpage inspired by the Bento box!",
   "author": "Miguel Ávila",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lucide": "^0.453.0"
+  }
 }
