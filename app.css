@@ -6,7 +6,9 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
+ /* Font Import */
 
 :root {
   /* Font Size */
@@ -35,13 +37,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
+  --accent: #a869f5; /* Hover color */
   --background: #19171a; /* Background color */
   --cards: #201e21; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #b68aeb; /* Foreground color */
+  --sfg: #1a0a2e; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
@@ -56,7 +58,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Gluten', sans-serif;
   transition: 0.2s ease-in-out;
 }
 
@@ -110,11 +112,11 @@ body {
 .card {
   background-color: var(--cards);
   box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 .card:hover {
-  transform: translateY(-0.2rem);
+  transform: translateY(-0.9rem);
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
 }
 
