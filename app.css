@@ -30,6 +30,12 @@
 
   /* Image background  */
   --imgbg: url(assets/gifs/haunter_gif.gif);  /* Image URL */
+  .lightImageBlock {
+    display: block;
+  }
+  .darkImageBlock {
+    display: none;
+  }
 }
 
 .darktheme {
@@ -48,6 +54,12 @@
     rgba(0, 0, 0, 0.1),
     rgba(0, 0, 0, 0.1)
   ); /* Filter color */
+  .darkImageBlock {
+    display: block;
+  }
+  .lightImageBlock {
+    display: none;
+  }
 }
 
 /* S T Y L E S */
