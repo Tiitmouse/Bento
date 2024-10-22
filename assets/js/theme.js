@@ -2,7 +2,7 @@
 //  │ ├─┤├┤ │││├┤
 //  ┴ ┴ ┴└─┘┴ ┴└─┘
 // Set theme based on Configurations and Preferences
-
+localStorage.setItem('darkTheme', "enabled");
 let darkTheme = localStorage.getItem('darkTheme');
 const themeToggle = document.querySelector('#themeButton');
 const bodyBackground = document.getElementById('#body');
