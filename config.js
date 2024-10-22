@@ -11,7 +11,7 @@ const CONFIG = {
 
 	// General
 	name: 'Lorena',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
