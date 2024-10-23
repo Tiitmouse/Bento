@@ -2,6 +2,10 @@
 
 <br />
 
+# Gengar themed startpage
+
+#### forked repo from https://github.com/migueravila/Bento
+
 ## 👇 Index
 - [👇 Index](#-index)
 - [✨ Features](#-features)
@@ -270,3 +274,7 @@ that you can change in the `config.js` file:
 ```
 
 ![](assets/img/darkMode.png)
+
+#### gifs sources 
+https://aminoapps.com/c/pokemon/page/blog/gengar-and-mega-gengar/qMhR_uBK8Benj7b4jR5Gj7YZGl7dk
+https://tenor.com/view/pokemon-gengar-evo-gif-27656085
