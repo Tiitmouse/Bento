@@ -2,27 +2,8 @@
 
 <br />
 
-# Gengar themed startpage
-
-#### forked repo from https://github.com/migueravila/Bento
-
-## 👇 Index
-- [👇 Index](#-index)
-- [✨ Features](#-features)
-- [🚀 Usage](#-usage)
-  - [🏡 As Home Page](#-as-home-page)
-  - [➕ As New Tab](#-as-new-tab)
-  - [🐳 In a Docker Container](#-in-a-docker-container)
-    - [Docker run](#docker-run)
-    - [docker-compose](#docker-compose)
-- [🎨 Customization](#-customization)
-  - [👋 General: Name, Image Background and Greetings](#-general-name-image-background-and-greetings)
-  - [📐 Layouts: Bento, Lists and Buttons.](#-layouts-bento-lists-and-buttons)
-  - [🏷️ Buttons \& Links](#️-buttons--links)
-  - [📑 Lists \& Links](#-lists--links)
-  - [⛈️ Weather: Api Key, Icons and Unit](#️-weather-api-key-icons-and-unit)
-  - [💛 Colors](#-colors)
-  - [🌑 Auto change theme](#-auto-change-theme)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=3500&pause=1000&color=8110F7&width=435&lines=Gengar+themed+startup+page" alt="Typing SVG" /></a>
+###### forked repo from https://github.com/migueravila/Bento
 
 ## ✨ Features
 
